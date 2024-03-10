@@ -2,7 +2,7 @@
   "name": "cemera-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MyCemera.com",
+  "homepage": "https://varshneygautam17.github.io/cemera_site",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
