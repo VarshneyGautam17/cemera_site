@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d21204c3.css",
-    "main.js": "/static/js/main.67887c18.js",
-    "static/js/787.c665c71f.chunk.js": "/static/js/787.c665c71f.chunk.js",
-    "static/media/img1.png": "/static/media/img1.b67ac4dd1e92ef3d6fe6.png",
-    "static/media/footer2.png": "/static/media/footer2.4aed9887569847632130.png",
-    "static/media/footer1.png": "/static/media/footer1.eb38e472cd3d94f9e0a3.png",
-    "static/media/logo.png": "/static/media/logo.127261441887ba8a8314.png",
-    "static/media/cemera_logo2.png": "/static/media/cemera_logo2.df24a17ff9e0347bb2a2.png",
-    "static/media/img2.png": "/static/media/img2.981ac44464a9d27a9a5e.png",
-    "static/media/img3.png": "/static/media/img3.1672e3e3c05e726143bc.png",
-    "static/media/cemera_logo1.png": "/static/media/cemera_logo1.85e47572056879d609e2.png",
-    "static/media/cemera_logo3.png": "/static/media/cemera_logo3.fa2480ef01d82088060d.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.d21204c3.css.map": "/static/css/main.d21204c3.css.map",
-    "main.67887c18.js.map": "/static/js/main.67887c18.js.map",
-    "787.c665c71f.chunk.js.map": "/static/js/787.c665c71f.chunk.js.map"
+    "main.css": "/cemera_site/static/css/main.b9851dbc.css",
+    "main.js": "/cemera_site/static/js/main.aae4f888.js",
+    "static/js/787.c665c71f.chunk.js": "/cemera_site/static/js/787.c665c71f.chunk.js",
+    "static/media/img1.png": "/cemera_site/static/media/img1.b67ac4dd1e92ef3d6fe6.png",
+    "static/media/footer2.png": "/cemera_site/static/media/footer2.4aed9887569847632130.png",
+    "static/media/footer1.png": "/cemera_site/static/media/footer1.eb38e472cd3d94f9e0a3.png",
+    "static/media/logo.png": "/cemera_site/static/media/logo.127261441887ba8a8314.png",
+    "static/media/cemera_logo2.png": "/cemera_site/static/media/cemera_logo2.df24a17ff9e0347bb2a2.png",
+    "static/media/img2.png": "/cemera_site/static/media/img2.981ac44464a9d27a9a5e.png",
+    "static/media/img3.png": "/cemera_site/static/media/img3.1672e3e3c05e726143bc.png",
+    "static/media/cemera_logo1.png": "/cemera_site/static/media/cemera_logo1.85e47572056879d609e2.png",
+    "static/media/cemera_logo3.png": "/cemera_site/static/media/cemera_logo3.fa2480ef01d82088060d.png",
+    "static/media/logo.svg": "/cemera_site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cemera_site/index.html",
+    "main.b9851dbc.css.map": "/cemera_site/static/css/main.b9851dbc.css.map",
+    "main.aae4f888.js.map": "/cemera_site/static/js/main.aae4f888.js.map",
+    "787.c665c71f.chunk.js.map": "/cemera_site/static/js/787.c665c71f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d21204c3.css",
-    "static/js/main.67887c18.js"
+    "static/css/main.b9851dbc.css",
+    "static/js/main.aae4f888.js"
   ]
 }
